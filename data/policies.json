@@ -1,0 +1,29 @@
+{
+    "economy_class_limit": 400,
+    "business_class_limit": 1200,
+
+    "preferred_airlines": [
+        "Air India",
+        "Emirates",
+        "Singapore Airlines",
+        "Qatar Airways"
+    ],
+
+    "pre_approval_required": true,
+
+    "max_trip_duration_days": 10,
+
+    "allowed_destinations": [
+        "Singapore",
+        "Dubai",
+        "London",
+        "New York",
+        "Tokyo",
+        "Sydney"
+    ],
+
+    "disallowed_destinations": [
+        "Conflict Zones",
+        "Restricted Countries"
+    ]
+}

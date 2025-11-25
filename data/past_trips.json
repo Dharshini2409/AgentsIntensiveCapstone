@@ -1,0 +1,26 @@
+[
+    {
+        "destination": "Singapore",
+        "travel_class": "economy",
+        "price": 350,
+        "date": "2024-08-15"
+    },
+    {
+        "destination": "Dubai",
+        "travel_class": "business",
+        "price": 1100,
+        "date": "2024-09-10"
+    },
+    {
+        "destination": "London",
+        "travel_class": "economy",
+        "price": 420,
+        "date": "2024-10-05"
+    },
+    {
+        "destination": "Singapore",
+        "travel_class": "economy",
+        "price": 300,
+        "saved_at": "2025-11-25 16:30:44"
+    }
+]

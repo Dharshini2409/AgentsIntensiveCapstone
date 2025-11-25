@@ -1,0 +1,22 @@
+{
+    "EMP001": {
+        "seat_preference": "window",
+        "meal_preference": "vegetarian",
+        "preferred_airlines": [
+            "Air India",
+            "Emirates"
+        ],
+        "avoid_airlines": [
+            "Low Cost Carrier"
+        ],
+        "loyalty_programs": {
+            "Emirates Skywards": "Silver",
+            "Air India Flying Returns": "Basic"
+        },
+        "typical_destinations": [
+            "Singapore",
+            "Dubai"
+        ],
+        "recent_travel_purpose": "Client meetings"
+    }
+}
